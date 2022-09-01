@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -p welcome/to/my-first_directory
